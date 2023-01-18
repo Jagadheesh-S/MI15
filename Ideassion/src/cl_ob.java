@@ -9,6 +9,7 @@ void info()
 	  System.out.println("Roll Number: "+rollno);
 	  System.out.println("Age: "+age);
 }
+}
 public class cl_ob {   
 public static void main(String[] args) {
 			Student student = new Student();
@@ -19,7 +20,7 @@ public static void main(String[] args) {
 }
 			
 }
-}
+
  
 		
 
